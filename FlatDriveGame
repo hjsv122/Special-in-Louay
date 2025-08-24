@@ -1,0 +1,16 @@
+FlatDriveGame/
+│
+├─ contracts/
+│   └─ FlatDriveVaultV5.sol
+│
+├─ backend/
+│   ├─ server.js
+│   ├─ package.json
+│   └─ .env        <-- املأ بياناتك هنا: TRON_PRIVATE_KEY, PLAYER_ADDRESS, USDT_TOKEN, CONTRACT_ADDRESS
+│
+├─ frontend/
+│   ├─ index.html
+│   ├─ style.css
+│   └─ app.js
+│
+└─ README.md
